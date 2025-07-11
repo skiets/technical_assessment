@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+@import "tailwindcss";
+
+@keyframes blink-shadow {
+  0%, 100% {
+    text-shadow: 0 0 5px #f87171, 0 0 10px #f87171, 0 0 15px #ef4444;
+  }
+  50% {
+    text-shadow: none;
+  }
+}
+
+body {
+  font-family: 'Poppins', sans-serif;
+}
+
+.glow-red {
+  color: #ef4444; /* solid red text */
+  animation: blink-shadow 1s infinite;
+}
