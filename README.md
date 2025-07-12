@@ -58,6 +58,7 @@ Server running on http://localhost:8080
 
 
 
-now lets proceed in front end
-type npm install for dependencides
+now lets proceed in frontend type 
+cd frontend
+npm install for dependencides
 npm run dev for run in http://localhost:****
