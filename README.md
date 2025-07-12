@@ -24,21 +24,6 @@
 │   ├── vite.config.js
 
 
-A. Requirements
-Go (v1.18+)
-
-MongoDB running locally
-
-Postman or frontend to test
-
-Folder: /backendA. Requirements
-Go (v1.18+)
-
-MongoDB running locally (or via MongoDB Atlas)
-
-Postman or frontend to test
-
-
 
 📂 4. HOW TO TEST
 Start MongoDB server
